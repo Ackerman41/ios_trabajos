@@ -1,0 +1,4 @@
+origin	git@github.com:Ackerman41/ios_trabajos.git (fetch)
+origin	git@github.com:Ackerman41/ios_trabajos.git (push)
+vertedero	git@github.com:Ackerman41/ios_trabajos.git (fetch)
+vertedero	git@github.com:Ackerman41/ios_trabajos.git (push)
