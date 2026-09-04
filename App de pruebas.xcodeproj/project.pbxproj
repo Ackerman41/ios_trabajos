@@ -33,16 +33,16 @@
 			isa = PBXGroup;
 			children = (
 				FBAE0C483041C4900044BD1E /* App de pruebas */,
-				FBAE0C473041C4900044BD1E /* Products */,
+				FBAE0C473041C4900044BD1E /* Primer_Examen */,
 			);
 			sourceTree = "<group>";
 		};
-		FBAE0C473041C4900044BD1E /* Products */ = {
+		FBAE0C473041C4900044BD1E /* Primer_Examen */ = {
 			isa = PBXGroup;
 			children = (
 				FBAE0C463041C4900044BD1E /* App de pruebas.app */,
 			);
-			name = Products;
+			name = Primer_Examen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +95,7 @@
 			mainGroup = FBAE0C3D3041C4900044BD1E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = FBAE0C473041C4900044BD1E /* Products */;
+			productRefGroup = FBAE0C473041C4900044BD1E /* Primer_Examen */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
